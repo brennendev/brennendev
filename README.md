@@ -1,5 +1,5 @@
-<h1 align="center">Hi, i'm Brennen</h1>
-<h3 align="center">Minecraft Developer</h3>
+<h1 align="center">Hi, i'm Brennen!</h1>
+<h3 align="center">Minecraft Mod/Ct Module Developer</h3>
 
 - 🔭 I’m currently working on [Reaper Client](github.com/brennendev/reaperclient)
 
