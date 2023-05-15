@@ -1,7 +1,7 @@
 <h1 align="center">Hi, i'm Brennen!</h1>
 <h3 align="center">Minecraft Mod/Ct Module Developer</h3>
 
-- 🔭 I’m currently working on [https://github.com/brennendev/reaperclient](Reaper Client)
+- 🔭 I’m currently working on [reaper client.](https://github.com/brennendev/reaperclient)
 
 - 👨‍💻 All of my projects are available on [https://github.com/brennendev?tab=repositories](my repositories page!)
 
