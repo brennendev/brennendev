@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Reaper Client.](https://github.com/brennendev/reaperclient)
 
-- 👨‍💻 All of my projects are available on [my repositories page.](https://github.com/brennendev?tab=repositories)
+- 👨‍💻 All of my projects are available on [My Repositories Page.](https://github.com/brennendev?tab=repositories)
 
 <h3 align="left">Connect with me on discord! brennen#0630</h3>
 <p align="left">
