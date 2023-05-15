@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available on [https://github.com/brennendev?tab=repositories](https://github.com/brennendev?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on discord! brennen#0630</h3>
 <p align="left">
 </p>
 
