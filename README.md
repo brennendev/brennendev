@@ -1,11 +1,6 @@
 <h1 align="center">Hi, i'm Brennen!</h1>
 <h3 align="center">Minecraft Mod/Ct Module Developer</h3>
 
-- 🔭 I’m currently working on [bettermodules.](https://github.com/brennendev/bettermodules)
-
-- 👨‍💻 All of my projects are available on [My Repositories Page.](https://github.com/brennendev?tab=repositories)
-
-<h3 align="left">Connect with me on discord! brennen#0630</h3>
 <p align="left">
 </p>
 
